@@ -1,0 +1,20 @@
+Practica 1 - Grupo 13:
+Jose Alberto Cordoba Higuera - jacordobah@unal.edu.co
+Karen Medina Valderrama - kamedinava@unal.edu.co
+Joel Esteban Diaz Arévalo - jodiaza@unal.edu.co
+
+Instrucciones:
+1. Descargamos el archivo lista.txt, en el siguiente enlace:
+https://drive.google.com/file/d/1TEVlp9R9Hpc5DIQZN0IAb9weWuVUmc_I/view?usp=sharing
+
+2. Abrir dos terminales.
+
+3. En la primera terminal ejecutar:
+gcc -o programa p1-odProgram.c
+./programa
+
+4. En la segunda terminal.
+gcc -o busqueda busqueda.c
+./busqueda
+
+5. Disfrutar.
